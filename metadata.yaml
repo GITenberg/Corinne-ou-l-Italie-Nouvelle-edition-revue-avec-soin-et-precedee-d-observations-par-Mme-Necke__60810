@@ -1,0 +1,36 @@
+_repo: Corinne-ou-l-Italie-Nouvelle-edition-revue-avec-soin-et-precedee-d-observations-par-Mme-Necke__60810
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Staël, Madame de (Anne-Louise-Germaine)
+    aliases:
+    - De Staël, Madame (Anne-Louise-Germaine)
+    - Staël-Holstein, Anne Louise Germaine Necker Baronne de
+    - Stael, Madame de (Anne-Louise-Germaine)
+    birthdate: 1766
+    deathdate: 1817
+    gutenberg_agent_id: '1535'
+    url: http://www.gutenberg.org/2009/agents/1535
+    wikipedia: http://en.wikipedia.org/wiki/Anne_Louise_Germaine_de_Staël
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2019-11-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60810'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Corinne ou l''Italie
+
+  Nouvelle édition revue avec soin et précédée d''observations
+
+  par Mme Necker de Saussure et M. Sainte-Beuve de l''Académie
+
+  française'
+url: http://www.gutenberg.org/ebooks/60810
