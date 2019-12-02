@@ -1,5 +1,8 @@
 _repo: Corinne-ou-l-Italie-Nouvelle-edition-revue-avec-soin-et-precedee-d-observations-par-Mme-Necke__60810
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60810-h/images/cover.jpg
 creator:
   author:
     agent_name: Staël, Madame de (Anne-Louise-Germaine)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1535
     wikipedia: http://en.wikipedia.org/wiki/Anne_Louise_Germaine_de_Staël
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60810#Corinne-ou-l-Italie-Nouvelle-edition-revue-avec-soin-et-precedee-d-observations-par-Mme-Necke_
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
